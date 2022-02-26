@@ -20,7 +20,7 @@ public class Main {
         alan = (a*b)/2;
 
         System.out.println("Üçgenin Çevresi : " + cevre + " cm");
-        System.out.println("Üçgenin Çevresi : " + alan + " cm2");
+        System.out.println("Üçgenin Alanı : " + alan + " cm2");
 
     }
 }
