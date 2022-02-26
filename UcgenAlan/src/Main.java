@@ -5,16 +5,16 @@ public class Main {
         double a , b , c , cevre , alan ;
 
 
-        Scanner FiyatBilgisi = new Scanner(System.in);
+        Scanner KenarUzunluk = new Scanner(System.in);
 
         System.out.print("a Kenarı Uzunluğunu Giriniz (cm) : ");
-        a = FiyatBilgisi.nextInt();
+        a = KenarUzunluk.nextInt();
 
         System.out.print("b Kenarı Uzunluğunu Giriniz (cm) : ");
-        b = FiyatBilgisi.nextInt();
+        b = KenarUzunluk.nextInt();
 
         System.out.print("c Kenarı Uzunluğunu Giriniz (cm) : ");
-        c = FiyatBilgisi.nextInt();
+        c = KenarUzunluk.nextInt();
 
         cevre = (a+b+c);
         alan = (a*b)/2;
