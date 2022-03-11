@@ -1,6 +1,6 @@
 # Java-101 Programlama
 
-Java ile yazılmış programları içermektedir. Programlar için önerilerinizi lütfen iletiniz.
+It includes programs written in Java. Please send your suggestions for the programs.
 
 @author Nesimi KELLE
 
